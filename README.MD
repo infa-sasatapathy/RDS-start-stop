@@ -1,4 +1,4 @@
-Stopping and Starting RDS instance on chedule basis.
+Stopping and Starting RDS instance on schedule basis.
 
 Requirement:-
   Node.JS Installed.
